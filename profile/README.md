@@ -12,9 +12,5 @@ We created this [tool](https://github.com/MVX-TKYC/tools/blob/main/wallets_data_
 
 #### Choices
 
-##### Getting data as fast as possible
-The faster we get the data, the faster we can train the IA.
-So we choose to ignore wallets with less than 50 transactions.
-
-##### Scraping method
-Instead of API, we used Elastic Search which has no rate limit.
+- Getting data as fast as possible: The faster we get the data, the faster we can train the IA. So we choose to ignore wallets with less than 50 transactions
+- Scraping method: Instead of API, we used Elastic Search which has no rate limit.
