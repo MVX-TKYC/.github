@@ -2,9 +2,7 @@
 
 This is our participation in the [Encode x Multivers Hackathon](https://www.encode.club/multiversx-hackathon)!
 
-## Developments steps
-
-### 1. Getting data to train the IA
+## Getting data to train the IA
 To train our AI, we used data from all wallets on the MultiversX blockchain with more than 50 transactions. 
 This encompasses over 150,000 wallets, providing a comprehensive dataset for our advanced learning processes.
 
