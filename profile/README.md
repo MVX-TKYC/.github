@@ -27,8 +27,10 @@ This is our participation in the [Encode x MultiversX Hackathon](https://www.enc
 
 ## Overview
 
-TKYC is an on-chain analysis solution, leveraging artificial intelligence.
-With any address, we can determine the type of user it belongs to.
+TKYC is an on-chain analysis solution, leveraging artificial intelligence.  
+With any address, we can determine the type of user it belongs to.  
+  
+All of our content created for the hackathon can be accessed on [this Notion page](https://mathis-skipper.notion.site/TKYC-Block-AI-Labs-Submission-a4ebc7fd2d1247c5b6c327c9d5a9be2a?pvs=4), including videos, pitch decks, business cases, and more.
 
 ## Where can I start reviewing this project?
 
