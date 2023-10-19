@@ -44,9 +44,11 @@ This encompasses over 150,000 wallets, providing a comprehensive dataset for our
 We created this [tool](https://github.com/MVX-TKYC/tools/blob/main/wallets_data_scrapper/README.md) to download the data.  
 Here is a [link](https://www.swisstransfer.com/d/ed39b9c2-d2b2-4e68-9a40-b5b87b983928) to download the data used.
 
-### WIP AI Model
+### AI Model
 The AI model is not totally finished, but you can check the [WIP AI repo](https://github.com/MVX-TKYC/ai) and the [technical paper](https://mathis-skipper.notion.site/Technical-Paper-AI-c247ebfd5a2e46f0b999f60cc1cb596e)
 
 ### Itheum
 The WIP implementation of Itheum is available [in this branch](https://github.com/MVX-TKYC/app/blob/itheum/client/src/pages/Profile.tsx).  
 We would like to thank so much the team of Itheum that provides quality support.
+
+More informations about our development with [Itheum](https://github.com/MVX-TKYC/.github/blob/main/profile/ITHEUM.md)
