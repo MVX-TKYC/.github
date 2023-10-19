@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="tkyc logo_bg_transparent_x4.png" width="300" />
+  <img src="https://github.com/MVX-TKYC/.github/blob/main/profile/tkyc%20logo_bg_transparent_x4.png" width="300" />
 
   <p>
     The better you know your users, the more effectively you can engage them
