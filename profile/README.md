@@ -6,12 +6,12 @@
      An on-chain analysis solution, leveraging artificial intelligence.
   </p>
 
-  <p>    
-    <i>
-    <a href="https://tkyc-frontend.onrender.com/">live website</a>
+  <p>     
+    <a href="https://tkyc-frontend.onrender.com/">Live Website</a>
     •
-    <a href="https://mathis-skipper.notion.site/Technical-Paper-AI-c247ebfd5a2e46f0b999f60cc1cb596e">technical paper</a>    
-    </i>
+    <a href="https://mathis-skipper.notion.site/Technical-Paper-AI-c247ebfd5a2e46f0b999f60cc1cb596e">Technical Paper</a>    
+    •
+    <a href="https://mathis-skipper.notion.site/TKYC-Block-AI-Labs-Submission-a4ebc7fd2d1247c5b6c327c9d5a9be2a?pvs=4">Notion</a>
   </p>
   
 </div>
