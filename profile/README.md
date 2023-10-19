@@ -49,4 +49,4 @@ The AI model is not totally finished, but you can check the [WIP AI repo](https:
 
 ### Itheum
 The WIP implementation of Itheum is available [in this branch](https://github.com/MVX-TKYC/app/blob/itheum/client/src/pages/Profile.tsx).  
-We would like to thank so much to the team of Itheum that provides quality support.
+We would like to thank so much the team of Itheum that provides quality support.
