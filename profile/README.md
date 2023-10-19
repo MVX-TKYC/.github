@@ -48,4 +48,5 @@ Here is a [link](https://www.swisstransfer.com/d/ed39b9c2-d2b2-4e68-9a40-b5b87b9
 The AI model is not totally finished, but you can check the [WIP AI repo](https://github.com/MVX-TKYC/ai) and the [technical paper](https://mathis-skipper.notion.site/Technical-Paper-AI-c247ebfd5a2e46f0b999f60cc1cb596e)
 
 ### Itheum
-The WIP implementation of [ithem](https://github.com/MVX-TKYC/app/blob/itheum/client/src/pages/Profile.tsx)
+The WIP implementation of Itheum is available [in this branch](https://github.com/MVX-TKYC/app/blob/itheum/client/src/pages/Profile.tsx).  
+We would like to thank so much to the team of Itheum that provides quality support.
