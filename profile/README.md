@@ -1,3 +1,26 @@
+<div align="center">
+  
+  <img src="tkyc logo_bg_transparent_x4.png" width="300" />
+
+  <p>
+    The better you know your users, the more effectively you can engage them
+  </p>
+
+  <p>    
+    <i>
+    <a href="https://tkyc-frontend.onrender.com/">live website</a>
+    •
+    <a href="https://mathis-skipper.notion.site/Technical-Paper-AI-c247ebfd5a2e46f0b999f60cc1cb596e">technical paper</a>    
+    </i>
+  </p>
+  
+</div>
+
+<hr>
+
+
+
+
 # TKYC - Truly Know Your Customer
 
 This is our participation in the [Encode x MultiversX Hackathon](https://www.encode.club/multiversx-hackathon)!
@@ -11,7 +34,8 @@ With any address, we can determine the type of user it belongs to.
 
 ### Live website
 Check our [live website](https://tkyc-frontend.onrender.com/). Due to the short duration of the hackathon, the live version is not using our AI model.
-You can start by checking the [repo of the live website](https://github.com/MVX-TKYC/app). It contains the [frontend](https://github.com/MVX-TKYC/app/tree/main/client) and the [backend](https://github.com/MVX-TKYC/app/tree/main/server).  
+
+Here's the [repo of the live website](https://github.com/MVX-TKYC/app). It contains the [frontend](https://github.com/MVX-TKYC/app/tree/main/client) and the [backend](https://github.com/MVX-TKYC/app/tree/main/server).  
 
 ### Getting data to train the IA
 To train our AI, we used data from all wallets on the MultiversX blockchain with more than 50 transactions. 
