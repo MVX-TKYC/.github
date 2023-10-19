@@ -35,7 +35,7 @@ With any address, we can determine the type of user it belongs to.
 ### Live website
 Check our [live website](https://tkyc-frontend.onrender.com/). Due to the short duration of the hackathon, the live version is not using our AI model.
 
-Here's the [repo of the live website](https://github.com/MVX-TKYC/app). It contains the [frontend](https://github.com/MVX-TKYC/app/tree/main/client) and the [backend](https://github.com/MVX-TKYC/app/tree/main/server).  
+Here's the [repo of the live website](https://github.com/MVX-TKYC/app).
 
 ### Getting data to train the IA
 To train our AI, we used data from all wallets on the MultiversX blockchain with more than 50 transactions. 
